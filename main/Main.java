@@ -17,7 +17,7 @@ public class Main {
         BeingRegister br = new BeingRegister();
         ArrayList<Product> products = new ArrayList<>();
         ArrayList<GoldenTicket> goldenTickets = new ArrayList<>();
-        //blablabla
+        //blablablabla
         Scanner sc = new Scanner(System.in);
 
         boolean end = false;
